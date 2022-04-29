@@ -25,3 +25,6 @@ the quality of clustering. You can add Java/Python ML library classes/API in the
 both correct and wrong predictions. Java/Python ML library classes can be used for this problem.
 - ML10:Implement the non-parametric Locally Weighted Regression algorithm in order to fit data points.
 Select appropriate data set for your experiment and draw graphs.
+## 6th program dataset:
+- Loading the 20 newsgroups dataset : The dataset is called “Twenty Newsgroups”. Here is the official description, quoted from the website:http://qwone.com/~jason/20Newsgroups/ 
+- The 20 Newsgroups data set is a collection of approximately 20,000 newsgroup documents, partitioned (nearly) evenly across 20 different newsgroups. To the best of our knowledge, it was originally collected by Ken Lang, probably for his paper “Newsweeder: Learning to filter netnews,” though he does not explicitly mention this collection. The 20 newsgroups collection has become a popular data set for experiments in text applications of machine learning techniques, such as text classification and text clustering
