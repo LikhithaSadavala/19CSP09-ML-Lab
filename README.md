@@ -1,5 +1,5 @@
 # 19CSP09-ML-Lab
-## 3rd year 2nd semseter AI/ML Lab
+## 3rd year 2nd semseter ML Lab
 - ML1:Implement and demonstrate the FIND-S algorithm for finding the most specific hypothesis based 
 on a given set of training data samples. Read the training data from a CSV file. 
 - ML2:For a given set of training data examples stored in a .CSV file, implement and demonstrate the
